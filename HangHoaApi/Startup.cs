@@ -87,7 +87,7 @@ namespace HangHoaApi
                     Scheme = "Bearer",
                     BearerFormat = "JWT",
                     In = ParameterLocation.Header,
-                    Description = "Enter `Bearer` [space] and then your valid token in the text input below. \r\n\r\nExample:\"Bearer abcdefghiklmn\""
+                    Description = "Enter `Bearer` [space] and then yhhhhhhihiiiour valid token in the text input below. \r\n\r\nExample:\"Bearer abcdefghiklmn\""
                 });
                 c.AddSecurityRequirement(new OpenApiSecurityRequirement
                 {
